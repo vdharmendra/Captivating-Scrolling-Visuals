@@ -27,34 +27,34 @@ Welcome to the Captivating Scrolling Visuals project! This digital presentation 
 # Preview
 <span>Captivating Scrolling Visuals</span>
 <br/>
-<a href="#" target="_blank">
+<a href="https://www.behance.net/gallery/218527679/Captivating-Scrolling-Visuals" target="_blank">
 <img style="width:350px;" src="./img/landingPageSec.gif" alt="" />
 
 </a>
 <br/>
 <span>Captivating Scrolling Visuals Start & End Point </span>
 <br/>
-<a href="#" target="_blank">
-<img style="width:350px;" src="./img/landingPageSecUIUXLayout.gif" alt="" />
+<a href="https://www.behance.net/gallery/218527679/Captivating-Scrolling-Visuals" target="_blank">
+<img style="width:350px;margin:0px 20px" src="./img/landingPageSecUIUXLayout.gif" alt="" />
 </a>
-<a href="#" target="_blank">
+<a href="https://www.behance.net/gallery/218527679/Captivating-Scrolling-Visuals" target="_blank">
 <img style="width:350px;" src="./img/landingPageSecUIUXLayout.png" alt="" />
 </a>
 <br/>
 
 <br/>
-<span>Captivating Scrolling  </span>
+<span>Captivating Each Section  </span>
 <br/>
-<a href="#" target="_blank">
-<img style="width:350px;" src="./img/a1.jpg" alt="" />
-<img style="width:350px;" src="./img/a2.jpg" alt="" />
-<img style="width:350px;" src="./img/a3.jpg" alt="" />
+<a href="https://www.behance.net/gallery/218527679/Captivating-Scrolling-Visuals" target="_blank">
+<img style="width:350px;" src="./img/landingPageSec1.png" alt="" />
+<img style="width:350px;" src="./img/landingPageSec2.jpg" alt="" />
+<img style="width:350px;" src="./img/landingPageSec3.jpg" alt="" />
 </a>
 <br/>
 
 <span>Cover</span>
 <br/>
-<a href="#" target="_blank">
+<a href="https://www.behance.net/gallery/218527679/Captivating-Scrolling-Visuals" target="_blank">
 <img style="width:350px;" src="./img/cover.png" alt="" />
 </a>
 <br />
